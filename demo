@@ -1,0 +1,81 @@
+ <div className="mx-4 md:mx-16 lg:mx-24 xl:mx-36 2xl:mx-auto 2xl:max-w-7xl pt-4 pb-12">
+            <h2>Rating (12)</h2>
+            <div className="mt-6 grid lg:grid-cols-3">
+                <div className="lg:col-span-2 grid gap-6">
+                    <div className="border p-4 hover:shadow-lg rounded relative">
+                        <div className="flex gap-4">
+                            <div className="flex-none w-12 h-12 bg-black rounded-full flex items-center justify-center"><span className="text-white text-2xl">A</span></div>
+                            <div>
+                                <h3 className="text-xl font-bold text-blue-900">Amrit Anand</h3>
+                                <p className="text-sm text-gray-700">45 Reviews</p>
+                            </div>
+                        </div>
+                        <div className="mt-2">
+                            <p>******</p>
+                            <blockquote className="max-h-32 overflow-auto text-justify pr-2"> Very good interior, lightings and worth of price Staffs are good responsive persons. Very nice and clean. Ambience is good. Good place to</blockquote>
+                        </div>
+                        <div className="mt-4 flex gap-4">
+                            <button className="border px-2 py-1 rounded ">Helpful</button>
+                            <button className="border px-2 py-1 rounded ">Share</button>
+                        </div>
+                        <div className="absolute top-2 right-2  px-2 py-1 text-sm rounded bg-gray-100 text-gray-700 ">1 Day Ago</div>
+                    </div>
+                    <div className="border p-4 hover:shadow-lg rounded relative">
+                        <div className="flex gap-4">
+                            <div className="flex-none w-12 h-12 bg-black rounded-full flex items-center justify-center"><span className="text-white text-2xl">A</span></div>
+                            <div>
+                                <h3 className="text-xl font-bold text-blue-900">Amrit Anand</h3>
+                                <p className="text-sm text-gray-700">45 Reviews</p>
+                            </div>
+                        </div>
+                        <div className="mt-2">
+                            <p>******</p>
+                            <blockquote className="max-h-32 overflow-auto text-justify pr-2"> Very good interior, lightings and worth of price Staffs are good responsive persons. Very nice and clean. Ambience is good. Good place to</blockquote>
+                        </div>
+                        <div className="mt-4 flex gap-4">
+                            <button className="border px-2 py-1 rounded ">Helpful</button>
+                            <button className="border px-2 py-1 rounded ">Share</button>
+                        </div>
+                        <div className="absolute top-2 right-2  px-2 py-1 text-sm rounded bg-gray-100 text-gray-700 ">1 Day Ago</div>
+                    </div>
+                    <div className="border p-4 hover:shadow-lg rounded relative">
+                        <div className="flex gap-4">
+                            <div className="flex-none w-12 h-12 bg-black rounded-full flex items-center justify-center"><span className="text-white text-2xl">A</span></div>
+                            <div>
+                                <h3 className="text-xl font-bold text-blue-900">Amrit Anand</h3>
+                                <p className="text-sm text-gray-700">45 Reviews</p>
+                            </div>
+                        </div>
+                        <div className="mt-2">
+                            <p>******</p>
+                            <blockquote className="max-h-32 overflow-auto text-justify pr-2">  Very good interior, lightings and worth of price Staffs are good responsive persons. Very nice and clean. Ambience is good. Good place to conduct small functions situated in Thane. If some one looking venue for family events in Thane for veg & non veg food ,then this place is best suited. Outside decoration not allowed. We had booked this hall for Get-Together for 55 People for lunch. The staff was very helpful and did a pretty good job. Ample car parking space available. Around 25 car we can park. .This place has one beautiful hall with seating capacity upto 125 & moving crowd can manage upto 200. Very good interior, lightings and worth of price Staffs are good responsive persons. Very nice and clean. Ambience is good. Good place to</blockquote>
+                        </div>
+                        <div className="mt-4 flex gap-4">
+                            <button className="border px-2 py-1 rounded ">Helpful</button>
+                            <button className="border px-2 py-1 rounded ">Share</button>
+                        </div>
+                        <div className="absolute top-2 right-2  px-2 py-1 text-sm rounded bg-gray-100 text-gray-700 ">1 Day Ago</div>
+                    </div>
+                    <div className="border p-4 hover:shadow-lg rounded relative">
+                        <div className="flex gap-4">
+                            <div className="flex-none w-12 h-12 bg-black rounded-full flex items-center justify-center"><span className="text-white text-2xl">A</span></div>
+                            <div>
+                                <h3 className="text-xl font-bold text-blue-900">Amrit Anand</h3>
+                                <p className="text-sm text-gray-700">45 Reviews</p>
+                            </div>
+                        </div>
+                        <div className="mt-2">
+                            <p>******</p>
+                            <blockquote className="max-h-32 overflow-auto text-justify pr-2"> Very good interior, lightings and worth of price Staffs are good responsive persons. Very nice and clean. Ambience is good. Good place to</blockquote>
+                        </div>
+                        <div className="mt-4 flex gap-4">
+                            <button className="border px-2 py-1 rounded ">Helpful</button>
+                            <button className="border px-2 py-1 rounded ">Share</button>
+                        </div>
+                        <div className="absolute top-2 right-2  px-2 py-1 text-sm rounded bg-gray-100 text-gray-700 ">1 Day Ago</div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
